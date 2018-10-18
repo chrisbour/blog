@@ -1,5 +1,5 @@
 +++
-title = "Buy Skycoin Over The Counter [INFOGRAPHIC]"
+title = "Αγοράστε Skycoin Εκτός Ανταλλακτηρίων [INFOGRAPHIC]"
 tags = [
     "OTC",
     "Buy Skycoin",
@@ -16,12 +16,12 @@ categories = [
     length = 302249
 +++
 
-## It is now possible to purchase skycoin directly from skycoin.net over the counter.
+## Τώρα μπορείτε να αγοράσετε skycoin απευθείας από το skycoin.net χωρίς τη χρήση ανταλλακτηρίου.
 
-* Visit https://exchange.skycoin.net
-* Choose one of the available currencies
-* Enter Amount & Click Continue
-* Enter Addresses
-* Click Exchange
+* Επισκεφθείτε το https://exchange.skycoin.net
+* Επιλέξτε ένα από τα διαθέσιμα νομίσματα
+* Εισάγετε Το Ποσό & Πατήστε Συνέχεια
+* Εισάγετε Διευθύνσεις
+* Πατήστε Ανταλλαγή
 
-> When you purchase Skycoin directly from our website your coins are automatically purchased from the exchange at the lowest price. Transactions are powered by Coinswitch. Our partnership eliminates the burden of dealing with exchanges. No more withdrawal fees!
+> Όταν αγοράζετε Skycoin απευθείας από την ιστοσελίδα μας, τα νομίσματά σας αυτόματα αγοράζονται από το ανταλλακτήριο με την χαμηλότερη τιμή. Οι συναλλαγές  are powered by Coinswitch. Η συνεργασία μας σας βοηθάει να επελυθερωθείτε από το βάρος των ανταλλακτηρίων. Τέρμα τα έξοδα Our partnership eliminates the burden of dealing with exchanges. No more withdrawal fees!
