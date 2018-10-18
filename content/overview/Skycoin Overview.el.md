@@ -1,6 +1,6 @@
-+++ title = "Skycoin Overview" tags = [ "Skycoin", ] bounty = 15 date = "2017-08-26" categories = [ "Overview", ] +++
++++ title = "Skycoin Επισκόπηση" tags = [ "Skycoin", ] bounty = 15 date = "2017-08-26" categories = [ "Overview", ] +++
 
-Skycoin Introduction
+Skycoin Εισαγωγή
 Innovations And Flaws With Bitcoin And The Current Blockchain Protocols
 Innovations Produced By Bitcoin
 Major Flaws Of Bitcoin
