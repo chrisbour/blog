@@ -1,17 +1,20 @@
 +++ title = "Skycoin Επισκόπηση" tags = [ "Skycoin", ] bounty = 15 date = "2017-08-26" categories = [ "Overview", ] +++
 
 Skycoin Εισαγωγή
-Innovations And Flaws With Bitcoin And The Current Blockchain Protocols
-Innovations Produced By Bitcoin
-Major Flaws Of Bitcoin
+Καινοτομίες Και Ελαττώματα Του Bitcoin Και Των Υπαρχόντων Blockchain Πρωτοκόλλων
+Καινοτομίες Προερχόμενες Από Το Bitcoin
+Μείζονα Ελαττώματα Του Bitcoin
+Επιθυμητές Ιδιότητες Για Διανεμημένα Συστήματα Συναίνεσης Για Οικονομικό Κατάστιχο
 Desirable Properties For Systems Of Distributed Consensus For Financial Ledgers
-Skycoin Security Philosophy
-Transparency And Security: Obelisk And Public Broadcast Channels
+Φιλοσοφία Ασφαλείας Skycoin
+Διαφάνεια Και Ασφάλεια: Obelisk Και Δημόσια Κανάλια Αναμετάδοσης
 Obelisk
+Απλός Δυαδικός Συναινετικός Αλγόριθμος: Διαλέγοντας Μεταξύ Δύο Blocks
 Simple Binary Consensus Algorithm: Choosing Between Two Blocks
+Συναίνεση Μεταξύ Πολλαπλών Ταυτόχρονων Διακλαδωτών Επιλογών
 Consensus On Multiple Concurrent Branch Choices
-Skycoin Introduction
-Skycoin is based on technology which introduces a new cryptographic primitive known as a public broadcast channel. It also introduces a new consensus algorithm implementation, called Obelisk, which mitigates the commitment problems arising from the Proof-of-Work and mining processes underlying Bitcoin, thus addressing a host of security issues associated with the latter. Obelisk is not a single algorithm, but an implementation employing multiple techniques to deliver specific security guarantees.
+Skycoin Εισαγωγή
+Το Skycoin βασίζεται στην τεχνολόγια που εισάγει ένα νέο κρυπτογραφικό θεμελιακό στοιχείο, γνωστό ως δημόσιο κανάλι αναμετάδοσης. Επίσης παρουσιάζει μία νέα μορφή εκτέλεσης συναινετικού αλγορίθμου, τον Obelisk, which mitigates the commitment problems arising from the Proof-of-Work and mining processes underlying Bitcoin, thus addressing a host of security issues associated with the latter. Obelisk is not a single algorithm, but an implementation employing multiple techniques to deliver specific security guarantees.
 
 Innovations And Flaws With Bitcoin And The Current Blockchain Protocols
 In Bitcoin, new transactions are placed into a block, which is appended to the blockchain. Any peer in the Bitcoin network can create new blocks. Each block therefore has a single parent but one or more valid successors (children). The chains form a tree and the core problem that Bitcoin solves is getting every node in the network to agree on which of the prospective chains in the chain tree is the consensus blockchain.
